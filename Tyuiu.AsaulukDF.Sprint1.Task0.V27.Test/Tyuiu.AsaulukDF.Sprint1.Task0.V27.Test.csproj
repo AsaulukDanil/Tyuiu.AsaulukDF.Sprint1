@@ -7,6 +7,7 @@
 
         <IsPackable>false</IsPackable>
         <IsTestProject>true</IsTestProject>
+        <RootNamespace>Tyuiu.AsaulukDF.Sprint1.V0.Test</RootNamespace>
     </PropertyGroup>
 
     <ItemGroup>
@@ -21,7 +22,7 @@
     </ItemGroup>
 
     <ItemGroup>
-        <ProjectReference Include="..\Tyuiu.AsaulukDF.Sprint1.Task0.V0.Lib\Tyuiu.AsaulukDF.Sprint1.Task0.V0.Lib.csproj" />
+        <ProjectReference Include="..\Tyuiu.AsaulukDF.Sprint1.Task0.V27.Lib\Tyuiu.AsaulukDF.Sprint1.Task0.V27.Lib.csproj" />
     </ItemGroup>
 
     <ItemGroup>

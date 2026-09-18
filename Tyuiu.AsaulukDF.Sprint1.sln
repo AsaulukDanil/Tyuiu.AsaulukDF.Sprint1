@@ -2,11 +2,11 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{6FA3764D-7C6C-42B4-8C1C-B6CDF0E27E36}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.AsaulukDF.Sprint1.Task0.V0", "Tyuiu.AsaulukDF.Sprint1.Task0.V0\Tyuiu.AsaulukDF.Sprint1.Task0.V0.csproj", "{DB5C34D5-2157-4F6B-9F38-C6F58AE61FC0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.AsaulukDF.Sprint1.Task0.V27", "Tyuiu.AsaulukDF.Sprint1.Task0.V27\Tyuiu.AsaulukDF.Sprint1.Task0.V27.csproj", "{DB5C34D5-2157-4F6B-9F38-C6F58AE61FC0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.AsaulukDF.Sprint1.Task0.V0.Lib", "Tyuiu.AsaulukDF.Sprint1.Task0.V0.Lib\Tyuiu.AsaulukDF.Sprint1.Task0.V0.Lib.csproj", "{A4F53C15-6600-47B4-B985-C8CC97429779}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.AsaulukDF.Sprint1.Task0.V27.Lib", "Tyuiu.AsaulukDF.Sprint1.Task0.V27.Lib\Tyuiu.AsaulukDF.Sprint1.Task0.V27.Lib.csproj", "{A4F53C15-6600-47B4-B985-C8CC97429779}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.AsaulukDF.Sprint1.V0.Test", "Tyuiu.AsaulukDF.Sprint1.V0.Test\Tyuiu.AsaulukDF.Sprint1.V0.Test.csproj", "{01FE9570-E5D5-4EAC-87EE-07F99E7C65E7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.AsaulukDF.Sprint1.Task0.V27.Test", "Tyuiu.AsaulukDF.Sprint1.Task0.V27.Test\Tyuiu.AsaulukDF.Sprint1.Task0.V27.Test.csproj", "{01FE9570-E5D5-4EAC-87EE-07F99E7C65E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

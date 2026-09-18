@@ -5,6 +5,7 @@
         <TargetFramework>net8.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <RootNamespace>Tyuiu.AsaulukDF.Sprint1.Task0.V0</RootNamespace>
     </PropertyGroup>
 
        <ItemGroup>
@@ -15,8 +16,8 @@
    </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\Tyuiu.AsaulukDF.Sprint1.Task0.V0.Lib\Tyuiu.AsaulukDF.Sprint1.Task0.V0.Lib.csproj" />
-      <ProjectReference Include="..\Tyuiu.AsaulukDF.Sprint1.V0.Test\Tyuiu.AsaulukDF.Sprint1.V0.Test.csproj" />
+      <ProjectReference Include="..\Tyuiu.AsaulukDF.Sprint1.Task0.V27.Lib\Tyuiu.AsaulukDF.Sprint1.Task0.V27.Lib.csproj" />
+      <ProjectReference Include="..\Tyuiu.AsaulukDF.Sprint1.Task0.V27.Test\Tyuiu.AsaulukDF.Sprint1.Task0.V27.Test.csproj" />
     </ItemGroup>
 
 </Project>

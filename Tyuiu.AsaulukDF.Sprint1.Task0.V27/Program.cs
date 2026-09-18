@@ -17,8 +17,8 @@ namespace Tyuiu.AsaulukDF.Sprint1.Task0.V0
             Console.WriteLine("* Спринт #1                                                                *");
             Console.WriteLine("* Тема: Базовые навыки работы в C#                                          *");
             Console.WriteLine("* Задание #0                                                                *");
-            Console.WriteLine("* Вариант #0                                                                *");
-            Console.WriteLine("* Выполнил: Асаулюк Данил Федорович | ПКТб-23-1                             *");
+            Console.WriteLine("* Вариант #27                                                                *");
+            Console.WriteLine("* Выполнил: Асаулюк Данил Федорович | Истнб-26-1                             *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                  *");
             Console.WriteLine("* Написать программу, которая вычисляет выражение 5*2 + 4*3)              *");
